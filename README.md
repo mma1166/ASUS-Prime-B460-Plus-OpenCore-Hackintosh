@@ -28,7 +28,7 @@ PSU:      Corsair CV550 550W 80+ Bronze certified PSU
 
 # Result
 
-![Info](/images/Info.jpg)
+![Info](/images/Info1.jpg)
 
 # Note
 
